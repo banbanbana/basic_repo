@@ -1,2 +1,7 @@
-Content!
-There isn't really anything meaningful in here. I'm tired. It's stormy. Text it up.
+Here's what I did:
+1. In GitBash, I created a folder on my desktop named "basic_repo" with mkdir.
+2. Then I created a repo on GitHub called basic_repo.
+3. Next, I created file1.txt, file2.html, and style.css in the "basic_repo" folder with touch basic_repo/file1.txt, touch basic_repo/file2.html, etc. I launched atom by typing "atom" into the GitBash window, added the project folder, and put some content into the files.
+4. I added, committed, and pushed the repot with git add ., git commit -m "Created some files and put some content into them", and copying & pasting the push commands from GitHub.
+5. Next, I changed this file with some filler text, saved, added, and commited. Then I pushed it to GitHub with git push.
+6. Finally, I edited this text file to include these instructions, which I will upload to the platform.
